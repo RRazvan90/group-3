@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 print(os.getcwd())
-df_degrees= pd.read_csv(r'./group-3/Resources/degrees-that-pay-back.csv')
+df_degrees= pd.read_csv(r'./Resources/degrees-that-pay-back.csv')
 #cleaing  the degrees data frame.
 df_degrees ['Starting Median Salary'] = df_degrees ['Starting Median Salary'].str.replace(',', '').str.replace('.', '').str.replace('$', '')
 df_degrees ['Starting Median Salary'] = df_degrees ['Starting Median Salary'].astype(float)
