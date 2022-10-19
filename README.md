@@ -5,9 +5,14 @@ We have utilized the following 3 datasets which are stored in the resources fold
 2 salaries-by-college-type.csv
 3 salaries-by-region.csv
 
+Technologies used:
+Pandas and related libraries.
+
 Analysis  :
 
 The first step was to clean the data which included making sure that the data in the salary columns was numeric so we could use mathematical functions on it. We then proceeded to either get rid of the nan values by either removing them or  substituting it with the mean so as to have a more accurate representation in our graph.
+
+
 Analysis Based on Average Salary:
 Not all degrees grant an average pay above the national average.
 The difference in average pay amongst degree holders can be substantial depending on the degree.
@@ -21,6 +26,7 @@ We found that not all professionals increase their salary at the same rate .
 The degrees that provide the higher salaries right out of college are not the ones that have a greater salary mid-career necessarily.
 Some degrees don’t have a high starting salary but may even double by mid-career.
 The rate of growth varies substantially across the different majors . Maths followed by philosophy , international relations , Economics and marketing seem to be at the top. Education , nursing, nutrition , physical assistant at the bottom . Civil engineering , business management , accounting  in the middle.
+
 Analysis By Discipline :
 We grouped the degree majors/subjects into 4 major categories of Engg, healthcare , science and arts. We found  that the  starting salaries are highest in Engineering , followed by healthcare, science and arts . By mid career the order seems to shift with science overtaking healthcare
 Analysis across Type of Universities:
