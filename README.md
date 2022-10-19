@@ -1,1 +1,4 @@
-# group-3
+My job was to find out if universities are better paying by region. For that, I had to plot the median of starting career, mid-career, and top 10% career (so career progression) versus the region where universities are. The result is not really that surprising, in fact it is quite intuitive, as the best salaries are found in universities in the north-eastern region, so where the Ivy schools are, followed by the universities found in California, which again, not that surprising as that region has universities that are at the level of Ivy League schools. Also, this is a general assessment, as the analysis did not take into consideration the individual degrees and which ones pay more, this is an analysis done by my colleagues.
+
+Moreover, I chose to plot the median instead of the average because the median is more accurate when it comes to large datasets as it is not altered by the outliers, something which the average is affected.
+![image](https://user-images.githubusercontent.com/108660273/196700838-1fe69c84-6196-4000-8645-3a80ac01cf6e.png)
