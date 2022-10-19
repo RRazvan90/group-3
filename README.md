@@ -63,6 +63,6 @@ the level of Ivy League schools.
 ![image](https://user-images.githubusercontent.com/112128775/196760529-5d129489-4ce4-4249-a169-0885b76ba4bb.png)
 
 Final Conclusion:
-The degrees , university, region and discipline all have an impact on salary.Ivy league university grads are top earners however engineering grads have higher average salaries. 
+The degrees, university, region and discipline all have an impact on salary. Ivy league university grads are top earners however engineering grads have higher average salaries. 
 
 
