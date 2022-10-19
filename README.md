@@ -39,9 +39,11 @@ We grouped the degree majors/subjects into 4 major categories of Engg, healthcar
 
 Analysis across Type of Universities:
 The salaries are the highest for Ivy league graduates followed by  Engineering, Liberal Arts , Party and state respectively in this order. The order seems to stay the same through the starting and mid career salaries and also across the percentiles . 
+
 Ivy League grad salaries jump exponentially , they takes a lead from Engineering at about Mid_25th percentile . One interesting thing we notice is Engineering salaries starts falling behind Liberal Arts at Mid_75 percentile,even though at the start, they were much lower
 The state school salaries are significantly lower than the rest of college types  and that theme. continues along the centiles , even at 90% they are way lower. There are many more state colleges in comparison to other and more no of students going there, still the salaries are much lower
 The salaries at higher percentiles are higher , so it pays to get good grades. There is strong positive corelation (0.89) between Starting median salary and Mid-career median Salary.
+
 A more specific analysis of the schools:
 Top 3 starting career salaries  : CIT,MIT,Harvey Mudd with starting salaries.
 Top 3 Mid career: Princeton, Yale and MIT
