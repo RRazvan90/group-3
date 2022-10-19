@@ -18,6 +18,7 @@ Not all degrees grant an average pay above the national average.
 The difference in average pay amongst degree holders can be substantial depending on the degree.
 These degrees pay above both the national average and the average of degree holders
 Some degrees don’t even pay above the national average salary
+![image](https://user-images.githubusercontent.com/112128775/196760068-3b2fe48d-cc7e-4ae5-9b29-a33516a07366.png)
 
 
 
@@ -27,8 +28,15 @@ The degrees that provide the higher salaries right out of college are not the on
 Some degrees don’t have a high starting salary but may even double by mid-career.
 The rate of growth varies substantially across the different majors . Maths followed by philosophy , international relations , Economics and marketing seem to be at the top. Education , nursing, nutrition , physical assistant at the bottom . Civil engineering , business management , accounting  in the middle.
 
+![image](https://user-images.githubusercontent.com/112128775/196760737-5e69a151-bf46-4ceb-adbb-e11efbeb3b64.png)
+
+
+![image](https://user-images.githubusercontent.com/112128775/196760618-eff44bc3-dfa7-4458-913d-6df0d5eba829.png)
+
+
 Analysis By Discipline :
 We grouped the degree majors/subjects into 4 major categories of Engg, healthcare , science and arts. We found  that the  starting salaries are highest in Engineering , followed by healthcare, science and arts . By mid career the order seems to shift with science overtaking healthcare
+
 Analysis across Type of Universities:
 The salaries are the highest for Ivy league graduates followed by  Engineering, Liberal Arts , Party and state respectively in this order. The order seems to stay the same through the starting and mid career salaries and also across the percentiles . 
 Ivy League grad salaries jump exponentially , they takes a lead from Engineering at about Mid_25th percentile . One interesting thing we notice is Engineering salaries starts falling behind Liberal Arts at Mid_75 percentile,even though at the start, they were much lower
@@ -40,9 +48,16 @@ Top 3 Mid career: Princeton, Yale and MIT
 Lowest starting  : Morehead State University of Technology hill, Black Hills State University
 Lowest Mid career: Black Hills State University and Montana 
 
+![image](https://user-images.githubusercontent.com/112128775/196760412-8ec9b595-8528-476f-921f-8f675e70b42d.png)
+
+
+
 Analysis of university salaries by region :
 The best salaries are found in universities in the north-eastern region,
 where the Ivy schools are, followed by the universities found in California, 
 which again, not that surprising as that region has universities that are at 
 the level of Ivy League schools. 
+
+![image](https://user-images.githubusercontent.com/112128775/196760529-5d129489-4ce4-4249-a169-0885b76ba4bb.png)
+
 
